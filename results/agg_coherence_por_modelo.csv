@@ -1,0 +1,6 @@
+model,coherence_mean,coherence_ci_lo,coherence_ci_hi,n_prompts,n_texts
+humano,4.3139375,4.0,4.625,8,16
+DeepSeek-V3,4.153671875,3.9375,4.375,8,16
+ChatGPT,4.12053125,3.8125,4.4375,8,16
+Grok 4,4.091125,3.90625,4.25,8,16
+flax-community/gpt-2-spanisH,2.0,2.0,2.0,8,16

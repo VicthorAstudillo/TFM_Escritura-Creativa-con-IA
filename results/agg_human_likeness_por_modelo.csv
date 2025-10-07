@@ -1,0 +1,6 @@
+model,human_likeness_mean,human_likeness_ci_lo,human_likeness_ci_hi,n_prompts,n_texts
+DeepSeek-V3,0.56434375,0.375,0.71875,8,16
+ChatGPT,0.53253125,0.34375,0.71875,8,16
+humano,0.531265625,0.34375,0.75,8,16
+Grok 4,0.310734375,0.15625,0.46875,8,16
+flax-community/gpt-2-spanisH,0.156953125,0.0625,0.21875,8,16

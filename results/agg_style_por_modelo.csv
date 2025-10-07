@@ -1,0 +1,6 @@
+model,style_mean,style_ci_lo,style_ci_hi,n_prompts,n_texts
+DeepSeek-V3,3.93365625,3.65625,4.21875,8,16
+humano,3.907609375,3.5625,4.21875,8,16
+Grok 4,3.722375,3.40625,4.0625,8,16
+ChatGPT,3.596578125,3.24921875,4.0,8,16
+flax-community/gpt-2-spanisH,3.18653125,3.0625,3.25,8,16

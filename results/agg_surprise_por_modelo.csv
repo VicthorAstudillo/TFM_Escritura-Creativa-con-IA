@@ -1,0 +1,6 @@
+model,surprise_mean,surprise_ci_lo,surprise_ci_hi,n_prompts,n_texts
+Grok 4,4.004109375,3.6875,4.3125,8,16
+ChatGPT,3.87559375,3.625,4.125,8,16
+humano,3.844,3.5625,4.1875,8,16
+DeepSeek-V3,3.783546875,3.46875,4.125,8,16
+flax-community/gpt-2-spanisH,2.25,2.25,2.25,8,16
